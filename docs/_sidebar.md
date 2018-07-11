@@ -1,4 +1,4 @@
 - [Home](/)
   - [Here's how you can get started](/get-started)
 - [FAQ](/FAQ)
-- [hd2605'page](/hd2605)
+- [hd2605's page](/hd2605)
